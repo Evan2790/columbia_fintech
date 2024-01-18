@@ -8,7 +8,7 @@
 
 * When was the company incorporated?
 
-    -The company, in its current name, was founded in 1895; the company has ties to 1799 when The Manhattan Company was founded, as this is the earliest predecessor intsitution of the bank. Reference: [A History of our Firm](https://www.jpmorganchase.com/about/our-history)
+    -The company, in its current name, was founded in 1895; the company has ties to 1799 when The Manhattan Company was founded, as this is the earliest predecessor intsitution of the bank. 
 
 * Who are the founders of the company?
 
@@ -16,18 +16,18 @@
 
 * How did the idea for the company (or project) come about?
 
-    -The JPMCoin project was started in 2019 under the Onyx umbrella. 
+    -The JPMCoin project was started in 2019 under the Onxy umbrella. 
 
 * How is the company funded? How much funding have they received?
 
-    -The project is funded by the company and is apart of the $12 billion tech investment budget. Reference: [Technology Investment](https://www.jpmorganchase.com/news-stories/tech-investment-could-disrupt-banking)
+    -The project is funded by the company and is apart of the $12 billion tech investment budget. 
 
 
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
 
-    -The company is attempting to make a digital system to move money and information around the world on the basis of a blockchain ecosystem. This system would allow for real-time settlements and 24/7 availability. This would allow banks to cut operation costs in settlement operations and allow transactions to flow continuously instead of being interrupted after the close of the markets. Reference: [Onyx coin system](https://www.jpmorgan.com/onyx/coin-system)
+    -The company is attempting to make a digital system to move money and information around the world on the basis of a blockchain ecosystem. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
@@ -53,7 +53,7 @@
 
 * What are the other major companies in this domain?
 
-    -There are many other competitors on the space. The major banks are Goldman Sachs, CapitalOne, etc., while other financial services companies such as Fidelity, Jane Street, and BlackRock are also exploring the space. The main competitor to the coin platform itself would be Ripple. Ripple is a blockchain company that aims to provide a coin that will enable cross-border payments and provide other crypto and blockchain solutions for businesses. Reference: [Ripple](https://ripple.com/) 
+    -There are many other competitors on the space. The major banks are Goldman Sachs, CapitalOne, etc., while other financial services companies such as Fidelity, Jane Street, and BlackRock are also exploring the space. 
 
 
 ## Results
@@ -75,7 +75,7 @@
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-    -I would suggest offering more crypto ETFs and investment vehicles. There has been traction in the area and the firm is working with other companies to make that happen. This would allow customers to benefit on the growth of the innovation and expand the offerings of the banks. I would also investigate more into identity and access solutions based on blockchain technology. Since a blockchain based system can run continously and is a distributed ledger, this would provide an extra layer of security in case of a failure or breach.  
+    -I would suggest offering more crypto ETFs and investment vehicles. There has been traction in the area and the firm is working with other companies to make that happen. I would also investigate more into identity and access solutions based on blockchain technology.  
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -95,10 +95,4 @@ Onyx Coin System [Onyx coin system](https://www.jpmorgan.com/onyx/coin-system)
 
 J.P. Morgan History [A History of our Firm](https://www.jpmorganchase.com/about/our-history)
 
-Technology Investment [Technology Investment](https://www.jpmorganchase.com/news-stories/tech-investment-could-disrupt-banking)
-
-Ripple [Ripple](https://ripple.com/)
-
-
-
-
+Technology Investment [This $12 Billion Tech Investment Could Disrupt Banking](https://www.jpmorganchase.com/news-stories/tech-investment-could-disrupt-banking)
